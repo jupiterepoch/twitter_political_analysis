@@ -1,0 +1,12 @@
+3614
+(3614, 14)
+number of dem: 1917
+number of rep: 1697
+Fitting 10 folds for each of 100 candidates, totalling 1000 fits
+{
+ 'bootstrap': True,
+ 'max_depth': 10,
+ 'min_samples_leaf': 4,
+ 'min_samples_split': 2,
+ 'n_estimators': 1000
+}

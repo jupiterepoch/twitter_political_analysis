@@ -1,0 +1,104 @@
+3614
+(3614, 14)
+number of dem: 1917
+number of rep: 1697
+# Running fold 0 for 10 fold validation with model svm.
+Train accuracy 0.673739237392374 	 Test accuracy 0.6795580110497238.
+# Running fold 1 for 10 fold validation with model svm.
+Train accuracy 0.673739237392374 	 Test accuracy 0.6629834254143646.
+# Running fold 2 for 10 fold validation with model svm.
+Train accuracy 0.6740467404674046 	 Test accuracy 0.6546961325966851.
+# Running fold 3 for 10 fold validation with model svm.
+Train accuracy 0.6697416974169742 	 Test accuracy 0.6961325966850829.
+# Running fold 4 for 10 fold validation with model svm.
+Train accuracy 0.6716876729173071 	 Test accuracy 0.6759002770083102.
+# Running fold 5 for 10 fold validation with model svm.
+Train accuracy 0.6772210267445435 	 Test accuracy 0.6371191135734072.
+# Running fold 6 for 10 fold validation with model svm.
+Train accuracy 0.6707654472794343 	 Test accuracy 0.6731301939058172.
+# Running fold 7 for 10 fold validation with model svm.
+Train accuracy 0.6735321241930525 	 Test accuracy 0.6814404432132964.
+# Running fold 8 for 10 fold validation with model svm.
+Train accuracy 0.6759913925607132 	 Test accuracy 0.6454293628808865.
+# Running fold 9 for 10 fold validation with model svm.
+Train accuracy 0.6809099292960344 	 Test accuracy 0.6398891966759003.
+@ Best test accuracy with model svm is 0.6961
+@ Worst test accuracy with model svm is 0.6371
+@ Mean test accuracy with model svm is 0.6646
+@ Std of test accuracy with model svm is 0.0188
+
+# Running fold 0 for 10 fold validation with model random-forest.
+Train accuracy 0.9707872078720787 	 Test accuracy 0.6657458563535912.
+# Running fold 1 for 10 fold validation with model random-forest.
+Train accuracy 0.9689421894218943 	 Test accuracy 0.6602209944751382.
+# Running fold 2 for 10 fold validation with model random-forest.
+Train accuracy 0.9692496924969249 	 Test accuracy 0.6022099447513812.
+# Running fold 3 for 10 fold validation with model random-forest.
+Train accuracy 0.9704797047970479 	 Test accuracy 0.638121546961326.
+# Running fold 4 for 10 fold validation with model random-forest.
+Train accuracy 0.9695665539501999 	 Test accuracy 0.6592797783933518.
+# Running fold 5 for 10 fold validation with model random-forest.
+Train accuracy 0.9695665539501999 	 Test accuracy 0.6398891966759003.
+# Running fold 6 for 10 fold validation with model random-forest.
+Train accuracy 0.9714110052259453 	 Test accuracy 0.6759002770083102.
+# Running fold 7 for 10 fold validation with model random-forest.
+Train accuracy 0.970181371042115 	 Test accuracy 0.6398891966759003.
+# Running fold 8 for 10 fold validation with model random-forest.
+Train accuracy 0.9707961881340301 	 Test accuracy 0.631578947368421.
+# Running fold 9 for 10 fold validation with model random-forest.
+Train accuracy 0.9717184137719028 	 Test accuracy 0.6149584487534626.
+@ Best test accuracy with model random-forest is 0.6759
+@ Worst test accuracy with model random-forest is 0.6022
+@ Mean test accuracy with model random-forest is 0.6428
+@ Std of test accuracy with model random-forest is 0.0219
+
+# Running fold 0 for 10 fold validation with model knn.
+Train accuracy 0.7444649446494465 	 Test accuracy 0.6657458563535912.
+# Running fold 1 for 10 fold validation with model knn.
+Train accuracy 0.7453874538745388 	 Test accuracy 0.6823204419889503.
+# Running fold 2 for 10 fold validation with model knn.
+Train accuracy 0.7533825338253383 	 Test accuracy 0.6132596685082873.
+# Running fold 3 for 10 fold validation with model knn.
+Train accuracy 0.7466174661746617 	 Test accuracy 0.6464088397790055.
+# Running fold 4 for 10 fold validation with model knn.
+Train accuracy 0.7531509375960652 	 Test accuracy 0.6232686980609419.
+# Running fold 5 for 10 fold validation with model knn.
+Train accuracy 0.7485398094067015 	 Test accuracy 0.6426592797783933.
+# Running fold 6 for 10 fold validation with model knn.
+Train accuracy 0.7476175837688288 	 Test accuracy 0.6565096952908587.
+# Running fold 7 for 10 fold validation with model knn.
+Train accuracy 0.7509990777743621 	 Test accuracy 0.631578947368421.
+# Running fold 8 for 10 fold validation with model knn.
+Train accuracy 0.7494620350445742 	 Test accuracy 0.6232686980609419.
+# Running fold 9 for 10 fold validation with model knn.
+Train accuracy 0.7522287119581924 	 Test accuracy 0.592797783933518.
+@ Best test accuracy with model knn is 0.6823
+@ Worst test accuracy with model knn is 0.5928
+@ Mean test accuracy with model knn is 0.6378
+@ Std of test accuracy with model knn is 0.0251
+
+# Running fold 0 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5904059040590406 	 Test accuracy 0.574585635359116.
+# Running fold 1 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5891758917589176 	 Test accuracy 0.5883977900552486.
+# Running fold 2 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5931734317343174 	 Test accuracy 0.5497237569060773.
+# Running fold 3 for 10 fold validation with model naive-bayes.
+Train accuracy 0.584870848708487 	 Test accuracy 0.6353591160220995.
+# Running fold 4 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5917614509683369 	 Test accuracy 0.5678670360110804.
+# Running fold 5 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5865355056870581 	 Test accuracy 0.6177285318559557.
+# Running fold 6 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5877651398708884 	 Test accuracy 0.5983379501385041.
+# Running fold 7 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5893021826006763 	 Test accuracy 0.590027700831025.
+# Running fold 8 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5896095911466339 	 Test accuracy 0.592797783933518.
+# Running fold 9 for 10 fold validation with model naive-bayes.
+Train accuracy 0.5908392253304642 	 Test accuracy 0.5789473684210527.
+@ Best test accuracy with model naive-bayes is 0.6354
+@ Worst test accuracy with model naive-bayes is 0.5497
+@ Mean test accuracy with model naive-bayes is 0.5894
+@ Std of test accuracy with model naive-bayes is 0.0232
+
